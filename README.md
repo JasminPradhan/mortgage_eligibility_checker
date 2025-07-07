@@ -26,10 +26,14 @@ This is an LLM based mortgage assistant chatbot designed to provide preliminary 
 
 - Handles both self-checks and third-party (via customer ID) assessments
 - Uses soft guardrails to prevent financial disclosure or misuse
+  
+> It is assumed that the user profiles already exist with necessary fields and no follow up questions are required. 
 
 
 ## What to be fixed:
-Gracefully handling customer's vague or unrelated questions.
+- New user sign-up
+- Gracefully handling customer's vague or unrelated questions.
+- Handling follow up questions
 
 
 ## Mortgage Bot Workflow
