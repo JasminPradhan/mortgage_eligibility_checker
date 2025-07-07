@@ -46,6 +46,22 @@ flowchart TD
     I --> J[ Return Answer to User]
 ```
 
+## How to run the code:
+
+### Backend:
+In the terminal:
+```
+cd bot
+fastapi dev main.py
+```
+
+### Frontend:
+Open another terminal:
+```
+streamlit run app.py
+```
+ 
+
 ## Users Conversations
 
 #### For John Doe
