@@ -1,0 +1,27 @@
+[
+  {
+    "customer_id": "CUST001",
+    "name": "John Doe",
+    "age": 30,
+    "annual_income": 60000,
+    "spending_habits": ["Travel", "Dining"],
+    "credit_score": 720
+  },
+  {
+    "customer_id": "CUST002",
+    "name": "Jane Smith",
+    "age": 25,
+    "annual_income": 40000,
+    "spending_habits": ["Shopping", "Entertainment"],
+    "credit_score": 650
+  },
+
+  {
+    "customer_id": "CUST003",
+    "name": "Evelyn Good",
+    "age": 20,
+    "annual_income": 55000,
+    "spending_habits": ["Shopping", "Entertainment","Studies"],
+    "credit_score": 710
+  }
+]

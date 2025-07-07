@@ -1,0 +1,17 @@
+[
+  {
+    "username": "johnd1",
+    "password_hash": "sha256$100000$376de7177e81d0e9d67f100b62fe08eb$a0fac84e1fd3761d2f8b83ed72ef731fd5b132fd1794150302b22fcbae50e9e4",
+    "customer_id": "CUST001"
+  },
+  {
+    "username": "jsmith",
+    "password_hash": "sha256$100000$b518f4ebd510288189773ce93c2e40da$94da82fb0ace9a832d51a893a0e31a414febb52f3e3b47d714bb4c5ea009e544",
+    "customer_id": "CUST002"
+  },
+  {
+    "username": "missev",
+    "password_hash": "sha256$100000$a6a265c13bd941a60f0258d7c77ca864$b386ff0998b11d73a022afdca4a27060b8bf605acb20bb9c977c9dd8ea1a0f19",
+    "customer_id": "CUST003"
+  }
+]
